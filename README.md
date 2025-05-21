@@ -22,3 +22,7 @@ train_metadata.csv
 
 validation_metadata.csv    
     *Contains paths for the validation dataset.*
+
+
+**path modifier** csv_path_modifier.py
+*Contains code for modifying the image paths, for the 4 dataset files"

@@ -2,8 +2,8 @@
 Code and data for identification of individual Trout and Graylings
 
 
-**Code** Cleaned_ResNet_Rasp.py
-      *Contains code for algorithm used for individual classification. I use ResNet50, with pre-trained weights of ImageNet.*
+**Code** Cleaned_ResNet_Rasp.py          
+     *Contains code for algorithm used for individual classification. I use ResNet50, with pre-trained weights of ImageNet.*
 
 
 **Data set** 
@@ -24,5 +24,5 @@ validation_metadata.csv
     *Contains paths for the validation dataset.*
 
 
-**path modifier** csv_path_modifier.py
-      *Contains code for modifying the image paths, for the 4 dataset files"*
+**path modifier** csv_path_modifier.py          
+     *Contains code for modifying the image paths, for the 4 dataset files"*
